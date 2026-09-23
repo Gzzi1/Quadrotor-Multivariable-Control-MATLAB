@@ -49,7 +49,7 @@ The control architecture features a cascade topology for both lateral and longit
 
 1. Clone the repository.
 2. Ensure you have MATLAB installed along with the **Robust Control Toolbox**.
-3. Run the main script `Control_systems_project4.m`.
+3. Run the main script `ACS_Project.m`.
 4. The script will sequentially compute nominal designs, uncertain models, robust stability margins, and finally execute the Monte Carlo simulation. 
 
 ## Project Documentation
