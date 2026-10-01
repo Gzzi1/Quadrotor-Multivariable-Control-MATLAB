@@ -58,8 +58,9 @@ The control architecture features a cascade topology for both lateral and longit
 
 ## Contributors
 * Federico Gozzi
-* Simone Leandri
 * Matteo Marwan Graziani
+* Simone Leandri
+
 
 
 *Politecnico di Milano - Department of Aerospace Science and Technology (DAER)*
